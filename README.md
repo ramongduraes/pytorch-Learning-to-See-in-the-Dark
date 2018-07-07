@@ -14,6 +14,7 @@ Chen Chen, Qifeng Chen, Jia Xu, and Vladlen Koltun, "Learning to See in the Dark
 - RawPy 0.10
 - Scipy
 
+The program have been tested on Ubuntu 16.04 and Windows 10.
 
 ## Download Dataset
 Download `download_dataset.py` from the [original code](https://github.com/cchen156/Learning-to-See-in-the-Dark) and put it in the top level directory of this project and execute:
